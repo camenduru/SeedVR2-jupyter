@@ -22,4 +22,6 @@ https://iceclear.github.io/projects/seedvr2/
 
 <img width="1024" height="576" alt="Image" src="https://github.com/user-attachments/assets/231abb0e-1fc2-4c00-a443-1592ff3cadb2" />
 
+<img width="1600" height="896" alt="Image" src="https://github.com/user-attachments/assets/49e44931-ed78-425c-b72f-2bbbb3038f9d" />
+
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9409cdf6-f954-4f57-94f1-044ede5af527" />
